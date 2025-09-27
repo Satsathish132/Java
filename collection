@@ -1,0 +1,17 @@
+Collection – Base interface.
+
+List – Ordered, allows duplicates.
+
+Implementations: ArrayList, LinkedList, Vector, Stack.
+
+Set – Unique elements, no duplicates.
+
+Implementations: HashSet, LinkedHashSet, TreeSet.
+
+Queue – FIFO (First In, First Out).
+
+Implementations: PriorityQueue, ArrayDeque.
+
+Map (not part of Collection but in framework) – Key-Value pairs.
+
+Implementations: HashMap, LinkedHashMap, TreeMap, Hashtable.
